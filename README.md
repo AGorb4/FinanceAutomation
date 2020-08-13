@@ -1,0 +1,2 @@
+# FinanceAutomation
+Automating finance stuff
